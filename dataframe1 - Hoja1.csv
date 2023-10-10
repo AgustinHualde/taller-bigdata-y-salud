@@ -1,0 +1,904 @@
+anio,cesarea,establecimiento_nombre,establecimiento_dependencia,establecimiento_region_sanitaria,establecimiento_municipio_id,establecimiento_municipio_nombre,partos
+2014,130,Hospital Subzonal Saturnino Unzué,municipal,X,060854,25 de Mayo,284
+2014,0,Hospital Local General N. de La Riestra,municipal,X,060854,25 de Mayo,1
+2015,128,Hospital Subzonal Saturnino Unzué,municipal,X,060854,25 de Mayo,297
+2016,115,Hospital Subzonal Saturnino Unzué,Municipal,X,060854,25 de Mayo,267
+2017,91,Hospital Subzonal Saturnino Unzué,municipal,X,060854,25 de Mayo,253
+2015,0,Hospital Local General N. de La Riestra,municipal,X,060854,25 de Mayo,4
+2016,0,Hospital Local General N. de La Riestra,Municipal,X,060854,25 de Mayo,2
+2017,,Hospital Local General San Roque N. de La Riestra,municipal,X,060854,25 de Mayo,5
+2014,189,Hospital Subzonal General de Ag. J de Vedia,provincial,II,060588,9 de Julio,385
+2014,0,Hospital Municipal Doctor Manuel F. Arce,provincial,II,060588,9 de Julio,1
+2014,0,Hospital Quiroga,municipal,II,060588,9 de Julio,0
+2014,0,Hospital Municipal E. Dudignac,municipal,II,060588,9 de Julio,0
+2014,0,Hospital Municipal Doctor Manuel Arce,municipal,II,060588,9 de Julio,0
+2016,166,Hospital Subzonal General de Ag. J de Vedia,Provincial,II,060588,9 de Julio,351
+2015,163,Hospital Subzonal General de Ag. J de Vedia,provincial,II,060588,9 de Julio,363
+2017,144,Hospital Zonal General de Ag. Julio de Vedia,Provincial,II,060588,9 de Julio,303
+2015,0,Hospital Municipal Doctor Manuel F. Arce,provincial,II,060588,9 de Julio,1
+2015,0,HospitalQuiroga,municipal,II,060588,9 de Julio,0
+2015,0,Hospital Municipal E. Dudignac,municipal,II,060588,9 de Julio,0
+2015,0,Hospital Municipal Doctor Manuel Arce,municipal,II,060588,9 de Julio,0
+2017,,Hospital Municipal Doctor Manuel F. Arce,municipal,II,060588,9 de Julio,1
+2014,122,Hospital Local General José de San Martín,municipal,I,060007,Adolfo Alsina,177
+2014,0,Unidad Sanitaria Dr Loyarte,municipal,I,060007,Adolfo Alsina,0
+2014,0,Hospital Doctor Noe Yarcho,municipal,I,060007,Adolfo Alsina,0
+2016,139,Hospital Local General José de San Martín,Municipal,I,060007,Adolfo Alsina,185
+2015,127,Hospital Local General José de San Martín,municipal,I,060007,Adolfo Alsina,182
+2017,106,Hospital Local General San Martín  ,municipal,I,060007,Adolfo Alsina,143
+2015,1,Hospital Doctor Noe Yarcho,municipal,I,060007,Adolfo Alsina,3
+2015,0,Unidad Sanitaria Dr Loyarte,municipal,I,060007,Adolfo Alsina,0
+2017,,Hospital Municipal Doctor Noe Yarcho,municipal,I,060007,Adolfo Alsina,1
+2014,50,Hospital Local General A. Elicagaray,municipal,I,060014,Adolfo Gonzales Chaves,103
+2014,0,Unidad Sanitaria Doctor Madueño,municipal,I,060014,Adolfo Gonzales Chaves,0
+2015,47,Hospital Local General A. Elicagaray,municipal,I,060014,Adolfo Gonzales Chaves,100
+2016,44,Hospital Local General A. Elicagaray,Municipal,I,060014,Adolfo Gonzales Chaves,99
+2017,43,Hospital Local General A. Elicagaray,municipal,I,060014,Adolfo Gonzales Chaves,80
+2015,0,Unidad Sanitaria Doctor Madueño,municipal,I,060014,Adolfo Gonzales Chaves,0
+2017,,Unidad Sanit. Doctor F. Madueño,municipal,I,060014,Adolfo Gonzales Chaves,2
+2014,38,Hospital Municipal Sra. de la Merced,municipal,X,060021,Alberti,60
+2015,47,Hospital Municipal Sra. de la Merced,municipal,X,060021,Alberti,80
+2017,34,Hospital Municipal Ntra. Sra. de la Merced,municipal,X,060021,Alberti,56
+2016,31,Hospital Municipal Sra. de la Merced,Municipal,X,060021,Alberti,64
+2014,764,Hospital Zonal General de Ag. Doctor A. Oñativia,provincial,VI,060028,Almirante Brown,3087
+2014,695,Hospital Zonal General de Ag. L. Meléndez,provincial,VI,060028,Almirante Brown,2326
+2015,725,Hospital Zonal General de Ag. Doctor A. Oñativia,provincial,VI,060028,Almirante Brown,2581
+2016,679,Hospital Zonal General de Ag. Doctor A. Oñativia,Provincial,VI,060028,Almirante Brown,2551
+2017,677,Hospital Zonal. General Ag. Doctor Arturo Oñativia,Provincial,VI,060028,Almirante Brown,2300
+2015,655,Hospital Zonal General de Ag. L. Meléndez,provincial,VI,060028,Almirante Brown,2096
+2017,589,Hospital Zonal General de Ag. Doctor Lucio Meléndez,Provincial,VI,060028,Almirante Brown,1681
+2016,560,Hospital Zonal General de Ag. L. Meléndez,Provincial,VI,060028,Almirante Brown,1714
+2014,294,Hospital Municipal Santa Francisca Romana,municipal,IV,060077,Arrecifes,432
+2015,322,Hospital Municipal Santa Francisca Romana,municipal,IV,060077,Arrecifes,441
+2016,280,Hospital Municipal Santa Francisca Romana,Municipal,IV,060077,Arrecifes,403
+2017,277,Hospital Municipal Santa Francisca Romana,municipal,IV,060077,Arrecifes,435
+2017,878,Hospital Subzonal Mat. Infantil Ana Goittia,Provincial,VI,060035,Avellaneda,2602
+2016,821,Hospital Subzonal Materno Inf. A. Goitía,Provincial,VI,060035,Avellaneda,2747
+2015,800,Hospital Subzonal Materno Inf. A. Goittía,provincial,VI,060035,Avellaneda,2595
+2014,760,Hospital Subzonal Materno Inf. A. Goittía,provincial,VI,060035,Avellaneda,2436
+2014,547,Hospital Interzonal General de Ag. Pte. Perón,provincial,VI,060035,Avellaneda,1579
+2014,499,Hospital Interzonal General de Ag. Doctor P. Fiorito,provincial,VI,060035,Avellaneda,1464
+2014,0,Hospital Municipal Doctor Eduardo  Wilde,provincial,VI,060035,Avellaneda,0
+2015,669,Hospital Interzonal General de Ag. Pte. Perón,provincial,VI,060035,Avellaneda,1765
+2014,0,Hospital Municipal Doctor Eduardo  Wilde,municipal,VI,060035,Avellaneda,4
+2016,563,Hospital Interzonal General de Ag. Pte. Perón,Provincial,VI,060035,Avellaneda,1485
+2017,410,Hospital Interzonal General de Ag. Pte. Perón,Provincial,VI,060035,Avellaneda,1141
+2015,362,Hospital Interzonal General de Ag. Doctor P. Fiorito,provincial,VI,060035,Avellaneda,1184
+2017,359,Hospital Interzonal General de Ag. Doctor Pedro Fiorito,Provincial,VI,060035,Avellaneda,957
+2016,60,Hospital Interzonal General de Ag. Doctor P. Fiorito,Provincial,VI,060035,Avellaneda,168
+2015,0,Hospital Municipal Doctor Eduardo  Wilde,provincial,VI,060035,Avellaneda,1
+2015,0,Hospital Municipal Doctor Eduardo  Wilde,municipal,VI,060035,Avellaneda,0
+2014,180,Hospital Local Municipal Doctor Pedro Solanet,municipal,VIII,060042,Ayacucho,259
+2015,173,Hospital Local Municipal Doctor Pedro Solanet,municipal,VIII,060042,Ayacucho,263
+2016,142,Hospital Local Municipal Doctor Pedro Solanet,Municipal,VIII,060042,Ayacucho,219
+2017,124,Hospital Local Municipal Doctor Pedro Solanet,municipal,VIII,060042,Ayacucho,200
+2014,214,Hospital Zonal Esp. en Pediatría A. Diego,provincial,IX,060049,Azul,679
+2014,4,Hospital Municipal Doctor Angel Pintos,municipal,IX,060049,Azul,4
+2014,0,Hospital Local Chillar,municipal,IX,060049,Azul,0
+2014,0,Hospital Municipal Casella Solá,municipal,IX,060049,Azul,0
+2014,0,Hospital Local General de Agudos Doctor Horacio Ferro,municipal,IX,060049,Azul,0
+2015,294,Hospital Zonal Esp. en Pediatría A. Diego,provincial,IX,060049,Azul,768
+2016,275,Hospital Zonal Esp. Mat. Infantil A. Diego,Provincial,IX,060049,Azul,806
+2017,222,Hospital Zonal Esp. Mat. Infantil A. Diego,Provincial,IX,060049,Azul,703
+2015,2,Hospital Municipal Doctor Angel Pintos,municipal,IX,060049,Azul,2
+2016,1,Hospital Municipal Doctor Angel Pintos,Provincial,IX,060049,Azul,1
+2017,1,Hospital Municipal Doctor Angel Pintos,municipal,IX,060049,Azul,1
+2015,0,Hospital Local Chillar,municipal,IX,060049,Azul,0
+2015,0,Hospital Municipal Casella Solá,municipal,IX,060049,Azul,0
+2015,0,Hospital Local General de Agudos Doctor Horacio Ferro,municipal,IX,060049,Azul,0
+2017,,Hospital Local General Doctor Horacio Ferro,municipal,IX,060049,Azul,1
+2017,974,Hospital Interzonal General de Ag. Doctor J. Penna,Provincial,I,060056,Bahía Blanca,2439
+2015,917,Hospital Interzonal General Doctor J. Penna,provincial,I,060056,Bahía Blanca,2922
+2016,872,Hospital Interzonal General Doctor J. Penna,Provincial,I,060056,Bahía Blanca,2642
+2014,905,Hospital Interzonal General Doctor J. Penna,provincial,I,060056,Bahía Blanca,2947
+2017,,Hospital Menor Leonor de Cerelli,municipal,I,060056,Bahía Blanca,36
+2014,256,Hospital Subzonal Municipal,municipal,VIII,060063,Balcarce,537
+2016,275,Hospital Subzonal Municipal de Balcarce,Municipal,VIII,060063,Balcarce,515
+2015,272,Hospital Subzonal Municipal,municipal,VIII,060063,Balcarce,493
+2017,250,Hospital Subzonal Municipal de Balcarce,municipal,VIII,060063,Balcarce,465
+2014,123,Hospital Subzonal General Doctor L. Piñeiro,municipal,IV,060070,Baradero,226
+2017,159,Hospital Subzonal General Doctor L. Piñeiro,municipal,IV,060070,Baradero,279
+2016,151,Hospital Subzonal General Doctor L. Piñeiro,Municipal,IV,060070,Baradero,263
+2015,116,Hospital Subzonal General Doctor L. Piñeiro,municipal,IV,060070,Baradero,247
+2014,152,Hospital Local General Doctor A. Saintout,municipal,IX,060084,Benito Juárez,247
+2016,177,Hospital Local General Doctor A. Saintout,Municipal,IX,060084,Benito Juárez,282
+2015,137,Hospital Local General Doctor A. Saintout,municipal,IX,060084,Benito Juárez,223
+2017,135,Ente Descent. Hospital Doctor A. Saintout,municipal,IX,060084,Benito Juárez,194
+2017,1000,Hospital Zonal General de  Ag. Evita Pueblo,Provincial,VI,060091,Berazategui,3069
+2016,983,Hospital Zonal General de Ag. Evita Pueblo,Provincial,VI,060091,Berazategui,3375
+2015,927,Hospital Zonal General de Ag. Evita Pueblo,provincial,VI,060091,Berazategui,3312
+2014,893,Hospital Zonal General de Ag. Evita Pueblo,provincial,VI,060091,Berazategui,3200
+2014,0,Centro de Diagnóstico y Tratam. Doctor J. Sábatto,municipal,VI,060091,Berazategui,0
+2014,0,Unidad Sanitaria Nº 5,municipal,VI,060091,Berazategui,0
+2015,0,Centro de Diagnóstico y Tratam. Doctor J. Sábatto,municipal,VI,060091,Berazategui,0
+2015,0,Unidad Sanitaria Nº 5,municipal,VI,060091,Berazategui,0
+2014,157,Hospital Zonal General de Ag. Doctor Larrain,provincial,XI,060098,Berisso,407
+2017,154,Hospital Zonal General de Agudos Doctor M. V. Larraín,Provincial,XI,060098,Berisso,492
+2016,116,Hospital Zonal General de Ag. Doctor Larrain,Provincial,XI,060098,Berisso,398
+2015,10,Hospital Zonal General de Ag. Doctor Larrain,provincial,XI,060098,Berisso,87
+2014,231,Hospital Subzonal General Doctor Capredoni,municipal,IX,060105,Bolívar,459
+2014,0,Hospital Municipal  Pirovano,municipal,IX,060105,Bolívar,0
+2014,0,Hospital Juana G. de Miguens,municipal,IX,060105,Bolívar,0
+2017,254,Hospital Subzonal General Doctor M. A. Capredoni ,municipal,IX,060105,Bolívar,398
+2015,211,Hospital Subzonal General Doctor Capredoni,municipal,IX,060105,Bolívar,379
+2016,207,Hospital Subzonal General Doctor Capredoni,Municipal,IX,060105,Bolívar,376
+2015,0,Hospital Municipal  Pirovano,municipal,IX,060105,Bolívar,0
+2015,0,Hospital Juana G. de Miguens,municipal,IX,060105,Bolívar,0
+2014,163,Hospital San Luis,municipal,X,060112,Bragado,351
+2014,0,Unidad Sanitaria O´Briend,municipal,X,060112,Bragado,0
+2015,172,Hospital San Luis,municipal,X,060112,Bragado,303
+2017,167,Hospital Municipal San Luis,municipal,X,060112,Bragado,313
+2016,165,Hospital San Luis,Municipal,X,060112,Bragado,320
+2015,0,Unidad Sanitaria O´Briend,municipal,X,060112,Bragado,0
+2014,140,Hospital Municipal Doctor Francisco Caram,municipal,XI,060119,Brandsen,371
+2015,113,Hospital Municipal Doctor Francisco Caram,municipal,XI,060119,Brandsen,313
+2017,75,Hospital Municipal Doctor Francisco Caram,municipal,XI,060119,Brandsen,248
+2016,69,Hospital Municipal Doctor Francisco Caram,Municipal,XI,060119,Brandsen,233
+2014,328,Unidad Hospitalaria San José,municipal,V,060126,Campana,793
+2015,369,Unidad Hospitalaria San José,municipal,V,060126,Campana,823
+2016,335,Unidad Hospitalaria San José,Municipal,V,060126,Campana,781
+2017,307,Hospital San José,municipal,V,060126,Campana,758
+2014,195,Ente Descentralizado Hospital Doctor Angel Marzeti,municipal,XI,060134,Cañuelas,710
+2014,0,Hospital General Mitre,municipal,XI,060134,Cañuelas,0
+2017,218,Ente Descentralizado Hospital Doctor Angel Marzetti,municipal,XI,060134,Cañuelas,624
+2016,197,Ente Descentralizado Hospital Doctor Angel Marzeti,Municipal,XI,060134,Cañuelas,661
+2015,175,Ente Descentralizado Hospital Doctor Angel Marzeti,municipal,XI,060134,Cañuelas,618
+2015,0,Hospital General Mitre,municipal,XI,060134,Cañuelas,0
+2014,202,Hospital Municipal San Carlos,municipal,IV,060140,Capitán Sarmiento,269
+2016,184,Hospital Municipal San Carlos,Municipal,IV,060140,Capitán Sarmiento,244
+2015,162,Hospital Municipal San Carlos,municipal,IV,060140,Capitán Sarmiento,237
+2017,126,Hospital Municipal San Carlos,municipal,IV,060140,Capitán Sarmiento,170
+2014,162,Hospital Municipal Doctor Julio Ramos,municipal,II,060147,Carlos Casares,286
+2014,0,Hospital Local Esp. Materno Infantil,municipal,II,060147,Carlos Casares,0
+2016,166,Hospital Municipal Doctor Julio Ramos,Municipal,II,060147,Carlos Casares,264
+2017,152,Hospital Municipal Doctor Julio F. Ramos,municipal,II,060147,Carlos Casares,247
+2015,149,Hospital Municipal Doctor Julio Ramos,municipal,II,060147,Carlos Casares,239
+2015,0,Hospital Local Esp. Materno Infantil,municipal,II,060147,Carlos Casares,0
+2014,69,Hospital Municipal Garré,municipal,II,060154,Carlos Tejedor,98
+2014,20,Hospital Municipal J. Ressano,municipal,II,060154,Carlos Tejedor,47
+2016,71,Hospital Municipal Garré,Municipal,II,060154,Carlos Tejedor,91
+2015,64,Hospital Municipal Garré,municipal,II,060154,Carlos Tejedor,83
+2017,59,Hospital Municipal Garré,municipal,II,060154,Carlos Tejedor,85
+2015,24,Hospital Municipal J. Ressano,municipal,II,060154,Carlos Tejedor,44
+2017,17,Hospital Municipal J. H. Ressano,municipal,II,060154,Carlos Tejedor,29
+2016,14,Hospital Municipal J. Ressano,Municipal,II,060154,Carlos Tejedor,29
+2014,99,Hospital Local. General Ntra. Sra. del Carmen,provincial,IV,060161,Carmen de Areco,169
+2015,112,Hospital Local. General Ntra. Sra. del Carmen,provincial,IV,060161,Carmen de Areco,175
+2016,112,Hospital Local. General Ntra. Sra. del Carmen,Provincial,IV,060161,Carmen de Areco,167
+2017,94,Hospital Local General Ntra. Sra. del Carmen,Provincial,IV,060161,Carmen de Areco,160
+2014,37,Hospital Local DoctorRamón Carrillo,municipal,XI,060168,Castelli,53
+2015,48,Hospital Local DoctorRamón Carrillo,municipal,XI,060168,Castelli,48
+2016,30,Hospital Local DoctorRamón Carrillo,Municipal,XI,060168,Castelli,34
+2017,12,Hospital Local DoctorRamón Carrillo,municipal,XI,060168,Castelli,16
+2015,349,Hospital Subzonal Nstra. Sra. del Carmen,municipal,III,060210,Chacabuco,488
+2014,366,Hospital Subzonal Nstra. Sra. del Carmen,municipal,III,060210,Chacabuco,545
+2014,0,Hospital Local Tomás Keating,municipal,III,060210,Chacabuco,0
+2016,314,Hospital Subzonal Nstra. Sra. del Carmen,Municipal,III,060210,Chacabuco,446
+2014,0,Hospital Local General Angel Rossi y C. Z. de Rossi,municipal,III,060210,Chacabuco,0
+2017,306,Hospital Municipal Ntra. Sra. del Carmen,municipal,III,060210,Chacabuco,426
+2015,0,Hospital Local Tomás Keating,municipal,III,060210,Chacabuco,0
+2015,0,Hospital Local General Angel Rossi y C. Z. de Rossi,municipal,III,060210,Chacabuco,0
+2014,166,Hospital San Vicente de Paul,municipal,XI,060218,Chascomús,294
+2016,202,Hospital San Vicente de Paul,Municipal,XI,060218,Chascomús,355
+2015,188,Hospital San Vicente de Paul,municipal,XI,060218,Chascomús,321
+2017,177,Hospital San Vicente de Paul,municipal,XI,060218,Chascomús,297
+2014,262,Hospital Municipal de Chivilcoy,municipal,X,060224,Chivilcoy,530
+2017,298,Hospital Municipal de Chivilcoy,municipal,X,060224,Chivilcoy,501
+2014,0,Unidad Sanitaria Y Hogar San José de Moquehuá,municipal,X,060224,Chivilcoy,0
+2015,266,Hospital Municipal de Chivilcoy,municipal,X,060224,Chivilcoy,508
+2016,246,Hospital Municipal de Chivilcoy,Municipal,X,060224,Chivilcoy,436
+2015,0,Unidad Sanitaria Y Hogar San José de Moquehuá,municipal,X,060224,Chivilcoy,0
+2014,159,Hospital Municipal de Colón,municipal,IV,060175,Colón,230
+2015,145,Hospital Municipal de Colón,municipal,IV,060175,Colón,205
+2016,136,Hospital Municipal de Colón,Municipal,IV,060175,Colón,210
+2017,130,Hospital Municipal de Colón,municipal,IV,060175,Colón,203
+2014,104,Hospital Local General Eva Perón,municipal,I,060182,Coronel de Marina Leonardo Rosales,284
+2015,74,Hospital Local General Eva Perón,municipal,I,060182,Coronel de Marina Leonardo Rosales,209
+2017,59,Hospital Municipal Eva Perón,municipal,I,060182,Coronel de Marina Leonardo Rosales,173
+2016,49,Hospital Local General Eva Perón,Municipal,I,060182,Coronel de Marina Leonardo Rosales,194
+2014,61,Hospital Local Municipal María Eva Duarte de Perón,municipal,I,060189,Coronel Dorrego,80
+2014,0,Hospital Municipal de Oriente,municipal,I,060189,Coronel Dorrego,0
+2017,53,Hospital Local General María Eva Duarte de Perón,municipal,I,060189,Coronel Dorrego,76
+2016,52,Hospital Local Municipal María Eva Duarte de Perón,Municipal,I,060189,Coronel Dorrego,75
+2015,37,Hospital Local Municipal María Eva Duarte de Perón,municipal,I,060189,Coronel Dorrego,59
+2015,0,Hospital Municipal de Oriente,municipal,I,060189,Coronel Dorrego,0
+2017,,Hospital Municipal de Oriente,municipal,I,060189,Coronel Dorrego,9
+2014,113,Hospital Local Doctor Manuel Cabrera,municipal,I,060196,Coronel Pringles,253
+2017,125,Hospital Municipal Doctor Cabrera,municipal,I,060196,Coronel Pringles,225
+2016,105,Hospital Local Doctor Manuel Cabrera,Municipal,I,060196,Coronel Pringles,219
+2015,56,Hospital Local Doctor Manuel Cabrera,municipal,I,060196,Coronel Pringles,104
+2017,292,Hospital Municipal de Cnel. Suárez,municipal,I,060203,Coronel Suárez,406
+2015,282,Hospital Local Municipal de Cnel. Suárez,municipal,I,060203,Coronel Suárez,404
+2016,281,Hospital Local Municipal de Cnel. Suárez,Municipal,I,060203,Coronel Suárez,391
+2014,307,Hospital Local Municipal de Cnel. Suárez,municipal,I,060203,Coronel Suárez,431
+2014,21,Hospital Local de Huanguelén,municipal,I,060203,Coronel Suárez,33
+2016,25,Hospital Municipal Lucero del Alba de Huanguelén,Municipal,I,060203,Coronel Suárez,29
+2015,21,Hospital Local de Huanguelén,municipal,I,060203,Coronel Suárez,30
+2017,21,Hospital Municipal Lucero del Alba de Huanguelén,municipal,I,060203,Coronel Suárez,27
+2014,200,Hospital Doctor Pedro M. Romanazzi,municipal,II,060231,Daireaux,295
+2014,0,Hospital Municipal Salazar,municipal,II,060231,Daireaux,0
+2017,222,Hospital Municipal Doctor Pedro M. Romanazzi,municipal,II,060231,Daireaux,296
+2015,210,Hospital Doctor Pedro M. Romanazzi,municipal,II,060231,Daireaux,311
+2016,198,Hospital Doctor Pedro M. Romanazzi,Municipal,II,060231,Daireaux,265
+2015,0,Hospital Municipal Salazar,municipal,II,060231,Daireaux,0
+2014,115,Unidad Hospitalaria San Roque,municipal,XI,060238,Dolores,199
+2016,159,Unidad Hospitalaria San Roque,Municipal,XI,060238,Dolores,233
+2015,143,Unidad Hospitalaria San Roque,municipal,XI,060238,Dolores,204
+2017,118,Unidad Hospitalaria San Roque,municipal,XI,060238,Dolores,175
+2015,261,Hospital Zonal General de Ag. Cestino,provincial,XI,060245,Ensenada,537
+2014,205,Hospital Zonal General de Ag. Cestino,provincial,XI,060245,Ensenada,526
+2014,0,Hospital Zonal General de Ag. Cestino,municipal,XI,060245,Ensenada,0
+2017,189,Hospital Zonal General de Agudos Doctor H. Cestino,Provincial,XI,060245,Ensenada,394
+2016,179,Hospital Zonal General de Ag. Cestino,Provincial,XI,060245,Ensenada,441
+2015,0,Hospital Zonal General de Ag. Cestino,municipal,XI,060245,Ensenada,0
+2015,835,Hospital Zonal General de Ag. Doctor E. Erill,provincial,V,060252,Escobar,2547
+2016,661,Hospital Zonal General de Ag. Doctor E. Erill,Provincial,V,060252,Escobar,2235
+2017,551,Hospital Zonal General de Ag. Doctor E. Erill,Provincial,V,060252,Escobar,2027
+2014,846,Hospital Zonal General de Ag. Doctor E. Erill,provincial,V,060252,Escobar,2574
+2014,0,Unidad Sanitaria Juan Selles,municipal,V,060252,Escobar,0
+2014,0,Centro de Salud Doctor Resio Garin,municipal,V,060252,Escobar,3
+2014,0,Centro de Salud Loma Verde,municipal,V,060252,Escobar,0
+2014,0,Centro de Salud A. Torres,municipal,V,060252,Escobar,0
+2014,0,Centro de Salud Cnel. Dorrego,municipal,V,060252,Escobar,1
+2014,0,Centro de Salud Alfredo Vilar,municipal,V,060252,Escobar,0
+2014,0,CAPS Eva Perón,municipal,V,060252,Escobar,1
+2014,0,Centro de Salud H. Canesi,municipal,V,060252,Escobar,0
+2014,0,Sala de Prim Aux. Ing. Maschwitz,municipal,V,060252,Escobar,0
+2015,0,Unidad Sanitaria Juan Selles,municipal,V,060252,Escobar,0
+2015,0,Centro de Salud Doctor Resio Garin,municipal,V,060252,Escobar,3
+2015,0,Centro de Salud Loma Verde,municipal,V,060252,Escobar,1
+2015,0,Centro de Salud A. Torres,municipal,V,060252,Escobar,0
+2015,0,Centro de Salud Cnel. Dorrego,municipal,V,060252,Escobar,0
+2015,0,Centro de Salud Alfredo Vilar,municipal,V,060252,Escobar,0
+2015,0,CAPS Eva Perón,municipal,V,060252,Escobar,0
+2015,0,Centro de Salud H. Canesi,municipal,V,060252,Escobar,0
+2015,0,Sala de Prim Aux. Ing. Maschwitz,municipal,V,060252,Escobar,0
+2016,0,Centro de Salud Doctor Resio Garin,Municipal,V,060252,Escobar,2
+2017,,C.A.P.S. Doctor L. Resio ,municipal,V,060252,Escobar,3
+2017,,Centro de Salud Cnel. Dorrego ,municipal,V,060252,Escobar,2
+2017,695,Policlínico S. T. Santamarina,municipal,VI,060260,Esteban Echeverría,2382
+2015,685,Polic. S. T. Santamarina,municipal,VI,060260,Esteban Echeverría,2365
+2016,567,Polic. S. T. Santamarina,Municipal,VI,060260,Esteban Echeverría,1963
+2014,615,Polic. S. T. Santamarina,municipal,VI,060260,Esteban Echeverría,2452
+2015,261,Hospital Municipal San José,municipal,V,060266,Exaltación de la Cruz,481
+2016,241,Hospital Municipal San José,Municipal,V,060266,Exaltación de la Cruz,440
+2017,236,Hospital Municipal San José,municipal,V,060266,Exaltación de La Cruz,412
+2014,261,Hospital Municipal San José,municipal,V,060266,Exaltación de la Cruz,495
+2015,782,Hospital Zonal General de Ag. Doctor A. Eurnekian,provincial,VI,060270,Ezeiza,2733
+2016,697,Hospital Interzonal General Agudos Eurnekian,Provincial,VI,060270,Ezeiza,2529
+2017,523,Hospital Interzonal General Agudos Eurnekian,Provincial,VI,060270,Ezeiza,1974
+2014,810,Hospital Zonal General de Ag. Doctor A. Eurnekian,provincial,VI,060270,Ezeiza,3186
+2014,0,Hospital Zonal General de Ag. Madre T. de Calcuta,provincial,VI,060270,Ezeiza,0
+2014,0,Maternidad Ctral.  de Ezeiza Doctor  M. Rebagliatti,municipal,VI,060270,Ezeiza,0
+2015,0,Hospital Zonal General de Ag. Madre T. de Calcuta,provincial,VI,060270,Ezeiza,0
+2015,0,Maternidad Ctral.  de Ezeiza Doctor  M. Rebagliatti,municipal,VI,060270,Ezeiza,0
+2017,1151,Hospital Zonal General de Ag. Mi Pueblo,Provincial,VI,060274,Florencio Varela,5220
+2016,1013,Hospital  General de Agudos Mi Pueblo,Provincial,VI,060274,Florencio Varela,5234
+2015,995,Hospital  General de Agudos Mi Pueblo,provincial,VI,060274,Florencio Varela,5744
+2014,424,Hospital  General de Agudos Mi Pueblo,provincial,VI,060274,Florencio Varela,2420
+2014,0,Hospital Municipal General de Agudos Mi Pueblo,municipal,VI,060274,Florencio Varela,0
+2015,0,Hospital Municipal General de Agudos Mi Pueblo,municipal,VI,060274,Florencio Varela,0
+2014,20,Hospital L. M. Doctor Felipe Peláez,municipal,III,060277,Florentino Ameghino,87
+2016,26,Hospital L. M. Doctor Felipe Peláez,Municipal,III,060277,Florentino Ameghino,71
+2015,25,Hospital L. M. Doctor Felipe Peláez,municipal,III,060277,Florentino Ameghino,94
+2017,22,Hospital Local Doctor Felipe Peláez,municipal,III,060277,Florentino Ameghino,64
+2016,195,Hospital Doctor Mariano Cassano,Municipal,VIII,060280,General Alvarado,339
+2017,185,Hospital Municipal Doctor Mariano Cassano,municipal,VIII,060280,General Alvarado,276
+2015,176,Hospital Doctor Mariano Cassano,municipal,VIII,060280,General Alvarado,299
+2014,171,Hospital Doctor Mariano Cassano,municipal,VIII,060280,General Alvarado,316
+2014,92,Hospital Municipal Bernardino Rivadavia,municipal,IX,060287,General Alvear,109
+2015,95,Hospital Municipal Bernardino Rivadavia,municipal,IX,060287,General Alvear,107
+2016,84,Hospital Municipal Bernardino Rivadavia,Municipal,IX,060287,General Alvear,98
+2017,66,Hospital Municipal Bernardino Rivadavia,municipal,IX,060287,General Alvear,76
+2014,76,Hospital L. M. Ignacio Pirovano,municipal,III,060294,General Arenales,86
+2015,73,Hospital L. M. Ignacio Pirovano,municipal,III,060294,General Arenales,74
+2016,73,Hospital L. M. Ignacio Pirovano,Municipal,III,060294,General Arenales,82
+2017,73,HospitalMunicipal Doctor Ignacio Pirovano,municipal,III,060294,General Arenales,81
+2014,110,Hospital Municipal Juan E. de la Fuente,municipal,XI,060301,General Belgrano,216
+2017,112,Hospital Municipal Juan E. de la Fuente,municipal,XI,060301,General Belgrano,216
+2015,87,Hospital Municipal Juan E. de la Fuente,municipal,XI,060301,General Belgrano,171
+2016,81,Hospital Municipal Juan E. de la Fuente,Municipal,XI,060301,General Belgrano,161
+2015,181,Hospital Ana B. de Guerrero,municipal,VIII,060315,General Juan Madariaga,228
+2014,178,Hospital Ana B. de Guerrero,municipal,VIII,060315,General Juan Madariaga,237
+2016,153,Hospital Ana B. de Guerrero,Municipal,VIII,060315,General Juan Madariaga,216
+2017,147,Hospital Municipal Ana R. S. de Martínez Guerrero,municipal,VIII,060315,General Juan Madariaga,183
+2014,101,Hospital Municipal M. Etchegaray,municipal,IX,060322,General la Madrid,158
+2015,127,Hospital Municipal M. Etchegaray,municipal,IX,060322,General la Madrid,187
+2017,95,Hospital Municipal M. Etchegaray,municipal,IX,060322,General la Madrid,151
+2016,80,Hospital Municipal M. Etchegaray,Municipal,IX,060322,General la Madrid,145
+2014,0,Hospital Doctor Pedro Arozarena,municipal,VII,060329,General las Heras,3
+2015,0,Hospital Doctor Pedro Arozarena,municipal,VII,060329,General las Heras,4
+2016,0,Hospital Local Doctor Pedro Arozarena,Municipal,VII,060329,General las Heras,4
+2017,,Hospital Municipal Doctor Pedro Arozarena,municipal,VII,060329,General las Heras,2
+2014,76,Hospital Local Generalde Agudos J. Campomar,municipal,XI,060343,General Paz,131
+2017,96,Hospital J. Scasso y M. Scasso de Campomar,municipal,XI,060343,General Paz,151
+2016,88,Hospital Local Generalde Agudos J. Campomar,Municipal,XI,060343,General Paz,141
+2015,63,Hospital Local Generalde Agudos J. Campomar,municipal,XI,060343,General Paz,117
+2014,26,Hospital L. M. Doctor Alberto Videla,municipal,III,060351,General Pinto,95
+2014,0,Unidad Sanitaria La Fuente Guisasola,municipal,III,060351,General Pinto,0
+2015,37,Hospital L. M. Doctor Alberto Videla,municipal,III,060351,General Pinto,97
+2016,22,Hospital L. M. Doctor Alberto Videla,Municipal,III,060351,General Pinto,85
+2017,19,Hospital Municipal Doctor Alberto L. Videla,municipal,III,060351,General Pinto,66
+2015,0,Unidad Sanitaria La Fuente Guisasola,municipal,III,060351,General Pinto,0
+2015,2354,Hospital Interzonal Espec. Materno Inf.,provincial,VIII,060357,General Pueyrredón,5063
+2017,2181,Hospital Interzonal Esp. Mat. Infantil Don V. Tetamanti,Provincial,VIII,060357,General Pueyrredón,4623
+2016,1895,Hospital Interzonal Espec. Materno Inf. Don V. Tetamanti,Provincial,VIII,060357,General Pueyrredón,4290
+2014,2200,Hospital Interzonal Espec. Materno Inf.,provincial,VIII,060357,General Pueyrredón,5102
+2016,709,Hospital Zonal General de Ag. Vte. López y Planes,Provincial,VII,060364,General Rodríguez,2318
+2015,684,Hospital Zonal General de Ag. Vte. López y Planes,provincial,VII,060364,General Rodríguez,2261
+2017,650,Hospital Interzonal General de Ag. Vte. Lopez y Planes,Provincial,VII,060364,General Rodríguez,2103
+2014,0,Hospital Zonal General de Ag. Vte. López y Planes,provincial,VII,060364,General Rodríguez,0
+2015,407,Hospital Municipal Doctor D. E. Thompson,municipal,V,060371,General San Martín,1495
+2016,387,Hospital Municipal Doctor D. E. Thompson,Municipal,V,060371,General San Martín,1334
+2017,381,Hospital Municipal Doctor D. E. Thompson,municipal,V,060371,General San Martín,1257
+2017,372,Hospital Interzonal General de Ag. Eva Perón,Provincial,V,060371,General San Martín,774
+2016,355,Hospital Interzonal General de Ag. Eva Perón,Provincial,V,060371,General San Martín,780
+2015,328,Hospital Interzonal General de Ag. Eva Perón,provincial,V,060371,General San Martín,840
+2015,261,Hospital Zonal General de Ag. General M. Belgrano,provincial,V,060371,General San Martín,837
+2017,203,Hospital Zonal General de Ag. General M. Belgrano,Provincial,V,060371,General San Martín,689
+2016,196,Hospital Zonal General de Ag. General M. Belgrano,Provincial,V,060371,General San Martín,662
+2014,494,Hospital Municipal Doctor D. E. Thompson,municipal,V,060371,General San Martín,1574
+2014,484,Hospital Interzonal General de Ag. Eva Perón,provincial,V,060371,General San Martín,802
+2014,226,Hospital Zonal General de Ag. General M. Belgrano,provincial,V,060371,General San Martín,827
+2014,0,Centro de Salud Doctor L. Agote,municipal,V,060371,General San Martín,0
+2015,0,Centro de Salud Doctor L. Agote,municipal,V,060371,General San Martín,0
+2014,72,Hospital Subzonal de General Viamonte,municipal,III,060385,General Viamonte,105
+2015,72,Hospital Subzonal de General Viamonte,municipal,III,060385,General Viamonte,118
+2016,70,Hospital Subzonal de General Viamonte,Municipal,III,060385,General Viamonte,108
+2017,59,Hospital Subzonal de General Viamonte,municipal,III,060385,General Viamonte,95
+2015,189,Hospital Municipal de  General Villegas Ntra. Sra. Del Carmen,municipal,II,060392,General Villegas,338
+2016,187,Hospital Municipal de  General Villegas Ntra. Sra. Del Carmen,Municipal,II,060392,General Villegas,299
+2017,141,Hospital Municipalde General Villegas Ntra. Sra del Carmen,municipal,II,060392,General Villegas,255
+2014,169,Hospital Municipal de  General Villegas Ntra. Sra. Del Carmen,municipal,II,060392,General Villegas,386
+2014,56,Hospital Municipal Doctor J. Llambías,municipal,I,060399,Guaminí,74
+2014,0,Hospital Municipal Casbas,municipal,I,060399,Guaminí,0
+2014,0,Hospital Municipal Adolfo Alsina,municipal,I,060399,Guaminí,0
+2017,38,Hospital Municipal Casbas,municipal,I,060399,Guaminí,48
+2016,31,Hospital Municipal Casbas,Municipal,I,060399,Guaminí,45
+2015,25,Hospital Municipal Doctor J. Llambías,municipal,I,060399,Guaminí,43
+2016,18,Hospital Municipal Doctor J. Llambías,Municipal,I,060399,Guaminí,20
+2017,18,Hospital Municipal Doctor J. Llambías,municipal,I,060399,Guaminí,23
+2015,14,Hospital Municipal Casbas,municipal,I,060399,Guaminí,16
+2015,0,Hospital Municipal Adolfo Alsina,municipal,I,060399,Guaminí,0
+2014,57,Hospital Municipal Doctor Saverio Mateo Galvagni,municipal,II,060406,Hipólito Yrigoyen,89
+2015,73,Hospital Municipal Doctor Saverio Mateo Galvagni,municipal,II,060406,Hipólito Yrigoyen,109
+2016,73,Hospital Municipal Doctor Saverio Mateo Galvagni,Municipal,II,060406,Hipólito Yrigoyen,97
+2017,53,Hospital Municipal Doctor S. M. Galvagni,municipal,II,060406,Hipólito Yrigoyen,71
+2016,557,Hospital Atenc. Prim. San Bernardino,Municipal,VII,060408,Hurlingham,1182
+2017,430,Hospital Municipal San Bernardino de Siena,municipal,VII,060408,Hurlingham,929
+2015,248,Hospital Atenc. Prim.  San Bernardino,municipal,VII,060408,Hurlingham,569
+2014,451,Hospital Atenc. Prim.  San Bernardino,municipal,VII,060408,Hurlingham,1127
+2014,0,Hospital Atenc. Prim. Ituzaingó,municipal,VII,060410,Ituzaingó,1
+2015,0,Hospital Atenc. Prim. Ituzaingó,municipal,VII,060410,Ituzaingó,0
+2016,0,Hospital Atenc. Prim. Ituzaingó,Municipal,VII,060410,Ituzaingó,1
+2017,,Hospital Atenc. Médica Prim. de Ituzaingó,municipal,VII,060410,Ituzaingó,1
+2015,914,Hospital Zonal Gob. D. Mercante,provincial,V,060412,José C. Paz,4067
+2016,881,Hospital Zonal Gob. D. Mercante,Provincial,V,060412,José C. Paz,3416
+2017,596,Hospital Zonal de Ag. Gob. Domingo Mercante,Provincial,V,060412,José C. Paz,2698
+2014,965,Hospital Zonal Gob. D. Mercante,provincial,V,060412,José C. Paz,4304
+2014,0,UPA 15,provincial,V,060412,José C. Paz,0
+2014,0,Centro Asistencial Sol y Verde,municipal,V,060412,José C. Paz,1
+2014,0,Centro Asistencial Las Heras,municipal,V,060412,José C. Paz,0
+2015,0,UPA 15,provincial,V,060412,José C. Paz,2
+2015,0,Centro Asistencial Sol y Verde,municipal,V,060412,José C. Paz,0
+2015,0,Centro Asistencial Las Heras,municipal,V,060412,José C. Paz,1
+2016,0,UPA 15,Provincial,V,060412,José C. Paz,1
+2015,351,Hospital Zonal General de Ag. A. Piñeyro,provincial,III,060413,Junín,707
+2016,319,Hospital Zonal General de Ag. A. Piñeyro,Provincial,III,060413,Junín,674
+2017,316,Hospital Interzonal General de Ag. Abraham Piñeyro,Provincial,III,060413,Junín,676
+2014,281,Hospital Zonal General de Ag. A. Piñeyro,provincial,III,060413,Junín,675
+2016,452,Hospital Municipal Carlos F. Macias,Municipal,VIII,060420,La Costa,1040
+2015,438,Hospital Municipal Carlos F. Macias,municipal,VIII,060420,La Costa,1040
+2017,438,Hospital Municipal Carlos F. Macías,municipal,VIII,060420,La Costa,1038
+2014,406,Hospital Municipal Carlos F. Macias,municipal,VIII,060420,La Costa,938
+2014,0,Hospital Local General de Agudos,municipal,VIII,060420,La Costa,0
+2014,0,Unidad Sanitaria Las Toninas,municipal,VIII,060420,La Costa,0
+2014,0,Unidad Sanitaria Santa Teresita,municipal,VIII,060420,La Costa,0
+2015,0,Hospital Local General de Agudos,municipal,VIII,060420,La Costa,1
+2015,0,Unidad Sanitaria Las Toninas,municipal,VIII,060420,La Costa,0
+2015,0,Unidad Sanitaria Santa Teresita,municipal,VIII,060420,La Costa,0
+2017,965,Hospital Interzonal General de Ag. Doctor Paroissien,Provincial,XII,060427,La Matanza,2476
+2017,794,Hospital Local Materno Infantil Dra. Germani,municipal,XII,060427,La Matanza,2597
+2016,755,Hospital Materno Infantil Doctor J. Equiza,Municipal,XII,060427,La Matanza,1796
+2016,735,Hospital Zonal General de Ag. Doctor Paroissien,Provincial,XII,060427,La Matanza,2003
+2017,631,Hospital Materno Infantil Doctor J. Equiza,municipal,XII,060427,La Matanza,1436
+2015,630,Hospital Materno Infantil Doctor J. Equiza,municipal,XII,060427,La Matanza,1472
+2016,625,Hospital Local Materno Infantil Dra. Germani,Municipal,XII,060427,La Matanza,1838
+2015,559,Hospital Zonal General de Ag. Doctor Paroissien,provincial,XII,060427,La Matanza,1708
+2015,536,Hospital Zonal de Ag. de González Catán Km. 32,provincial,XII,060427,La Matanza,2307
+2016,490,Hospital Zonal de Ag. de González Catán Km. 32,Provincial,XII,060427,La Matanza,2196
+2017,427,Hospital Zonal de Ag. de González Catán Km.32,Provincial,XII,060427,La Matanza,1911
+2015,392,Hospital Local Materno Infantil Dra. Germani,municipal,XII,060427,La Matanza,1353
+2017,327,Policlínico Central,municipal,XII,060427,La Matanza,463
+2016,316,Hospital Zonal General de Agudos Doctor Alberto Balestrini,Provincial,XII,060427,La Matanza,2005
+2017,316,Hospital Zonal General de Agudos Doctor Alberto Balestrini,Provincial,XII,060427,La Matanza,1756
+2015,304,Hospital Zonal General de Agudos Doctor Alberto Balestrini,provincial,XII,060427,La Matanza,1962
+2015,291,Policlínico Central San Justo,municipal,XII,060427,La Matanza,343
+2016,275,Policlínico Central San Justo,Municipal,XII,060427,La Matanza,368
+2014,528,Hospital Zonal General de Ag. Doctor Paroissien,provincial,XII,060427,La Matanza,1648
+2014,499,Hospital Zonal de Ag. de González Catán Km. 32,provincial,XII,060427,La Matanza,2424
+2014,446,Hospital Materno Infantil Doctor J. Equiza,municipal,XII,060427,La Matanza,1304
+2014,356,Hospital Local Materno Infantil Dra. Germani,municipal,XII,060427,La Matanza,1407
+2014,208,Policlínico Central San Justo,municipal,XII,060427,La Matanza,312
+2014,132,Hospital Zonal General de Agudos Doctor Alberto Balestrini,provincial,XII,060427,La Matanza,963
+2014,0,UPA 18,provincial,XII,060427,La Matanza,0
+2014,0,Unidad Sanitaria Doctor Roca,municipal,XII,060427,La Matanza,0
+2014,0,Unidad Sanitaria Doctor A. Sakamoto,municipal,XII,060427,La Matanza,3
+2014,0,Unidad Sanitaria Doctor Eizaguirre,municipal,XII,060427,La Matanza,0
+2014,0,Unidad Sanitaria N° 19,municipal,XII,060427,La Matanza,0
+2014,0,Unidad Sanitaria Puerto Argentino,municipal,XII,060427,La Matanza,0
+2014,0,Unidad Sanitaria Giovinazzo,municipal,XII,060427,La Matanza,0
+2014,0,Unidad de Salud F. Caputto,municipal,XII,060427,La Matanza,0
+2014,0,Unidad Sanitaria Ezcurra,municipal,XII,060427,La Matanza,0
+2014,0,Unidad Sanitaria Doctor Ramon Carrillo,municipal,XII,060427,La Matanza,0
+2015,0,UPA 18,provincial,XII,060427,La Matanza,1
+2015,0,Unidad Sanitaria Doctor Roca,municipal,XII,060427,La Matanza,0
+2015,0,Unidad Sanitaria Doctor A. Sakamoto,municipal,XII,060427,La Matanza,1
+2015,0,Unidad Sanitaria Doctor Eizaguirre,municipal,XII,060427,La Matanza,0
+2015,0,Unidad Sanitaria N° 19,municipal,XII,060427,La Matanza,0
+2015,0,Unidad Sanitaria Puerto Argentino,municipal,XII,060427,La Matanza,0
+2015,0,Unidad Sanitaria Giovinazzo,municipal,XII,060427,La Matanza,0
+2015,0,Unidad de Salud F. Caputto,municipal,XII,060427,La Matanza,0
+2015,0,Unidad Sanitaria Ezcurra,municipal,XII,060427,La Matanza,0
+2015,0,Unidad Sanitaria Doctor Ramon Carrillo,municipal,XII,060427,La Matanza,0
+2016,0,UPA 18,Provincial,XII,060427,La Matanza,1
+2016,0,Unidad Sanitaria Doctor A. Sakamoto,Municipal,XII,060427,La Matanza,1
+2016,0,Centro de Salud N° 7 Doctor Eizaguirre,Municipal,XII,060427,La Matanza,1
+2017,,UPA 18,Provincial,XII,060427,La Matanza,1
+2017,,Unidad Sanitaria Doctor R. Carrillo,municipal,XII,060427,La Matanza,1
+2015,1231,Hospital Interzonal General de Ag. General San Martín,provincial,XI,060441,La Plata,3395
+2017,1078,Hospital Interzonal General de Ag. General San Martín,Provincial,XI,060441,La Plata,2404
+2016,937,Hospital Interzonal General de Ag. General San Martín,Provincial,XI,060441,La Plata,2349
+2016,504,Hospital Zonal General de Ag. San Roque,Provincial,XI,060441,La Plata,1559
+2017,503,Hospital Interzonal General de Ag. San Roque,Provincial,XI,060441,La Plata,1507
+2016,464,Hospital Interzonal General de Ag. y Cron. Doctor A Korn,Provincial,XI,060441,La Plata,1704
+2015,449,Hospital Zonal General de Ag. San Roque,provincial,XI,060441,La Plata,1610
+2017,436,Hospital Zonal General de Ag. Doctor Ricardo Gutierrez,Provincial,XI,060441,La Plata,1683
+2016,417,Hospital Zonal General de Ag. Doctor R. Gutierrez,Provincial,XI,060441,La Plata,1652
+2015,319,Hospital Interzonal General de Ag. y Cron. Doctor A Korn,provincial,XI,060441,La Plata,1667
+2015,297,Hospital Zonal General de Ag. Doctor R. Gutierrez,provincial,XI,060441,La Plata,1230
+2017,252,Hospital Interzonal Esp. de Ag. y Crón. Doctor A. Korn,Provincial,XI,060441,La Plata,1360
+2014,1284,Hospital Interzonal General de Ag. General San Martín,provincial,XI,060441,La Plata,3833
+2014,425,Hospital Zonal General de Ag. San Roque,provincial,XI,060441,La Plata,1908
+2014,387,Hospital Interzonal General de Ag. y Cron. Doctor A Korn,provincial,XI,060441,La Plata,1781
+2014,199,Hospital Zonal General de Ag. Doctor R. Gutierrez,provincial,XI,060441,La Plata,966
+2017,718,Hospital Interzonal General de Ag. Evita,Provincial,VI,060434,Lanús,2055
+2016,602,Hospital Interzonal General de Ag. Evita,Provincial,VI,060434,Lanús,1904
+2015,416,Hospital Interzonal General de Ag. Evita,provincial,VI,060434,Lanús,1606
+2015,352,Hospital Zonal General de Ag. N. López,provincial,VI,060434,Lanús,1476
+2016,326,Hospital Zonal General de Ag. N. López,Provincial,VI,060434,Lanús,1388
+2017,323,Hospital Zonal General de Ag. Narciso López,Provincial,VI,060434,Lanús,1168
+2014,721,Hospital Interzonal General de Ag. Evita,provincial,VI,060434,Lanús,2784
+2014,317,Hospital Zonal General de Ag. N. López,provincial,VI,060434,Lanús,1370
+2014,0,Hospital Local General de Ag. Doctor A. Melo,provincial,VI,060434,Lanús,0
+2015,0,Hospital Local General de Ag. Doctor A. Melo,provincial,VI,060434,Lanús,0
+2017,107,Hospital Doctor Pedro S. Sancholuz,municipal,IX,060448,Laprida,180
+2016,104,Hospital Doctor Pedro S. Sancholuz,Municipal,IX,060448,Laprida,175
+2015,91,Hospital Doctor Pedro S. Sancholuz,municipal,IX,060448,Laprida,167
+2014,82,Hospital Doctor Pedro S. Sancholuz,municipal,IX,060448,Laprida,147
+2017,135,Hospital Zonal General de Las Flores,Provincial,IX,060455,Las Flores,188
+2016,121,Hospital Subzonal General de Las Flores,Provincial,IX,060455,Las Flores,185
+2015,99,Hospital Subzonal General de Las Flores,provincial,IX,060455,Las Flores,154
+2014,94,Hospital Subzonal General de Las Flores,provincial,IX,060455,Las Flores,157
+2015,129,Hospital Municipal de Leandro N. Alem,municipal,III,060462,Leandro N. Alem,163
+2017,127,Hospital Municipal Leandro N. Alem,municipal,III,060462,Leandro N. Alem,140
+2016,121,Hospital Municipal de Leandro N. Alem,Municipal,III,060462,Leandro N. Alem,150
+2014,104,Hospital Municipal de Leandro N. Alem,municipal,III,060462,Leandro N. Alem,143
+2014,0,Unidad Sanitaria Doctor P. R. Groupierre,municipal,III,060462,Leandro N. Alem,0
+2015,0,Unidad Sanitaria Doctor P. R. Groupierre,municipal,III,060462,Leandro N. Alem,0
+2014,0,UPA 7,provincial,XI,060466,Lezama,0
+2015,0,UPA 7,provincial,XI,060466,Lezama,1
+2017,,UPA 7,Provincial,XI,060466,Lezama,1
+2017,68,HospitalSubzonal Municipal Doctor R. O. Miravalle,municipal,III,060469,Lincoln,233
+2016,66,Hospital Subzonal Doctor Miravalle,Municipal,III,060469,Lincoln,244
+2015,63,Hospital Subzonal Doctor Miravalle,municipal,III,060469,Lincoln,235
+2014,61,Hospital Subzonal Doctor Miravalle,municipal,III,060469,Lincoln,271
+2015,0,Unidad Sanitaria M. de Hoz,municipal,III,060469,Lincoln,3
+2015,0,Unidad Sanitaria Pasteur,municipal,III,060469,Lincoln,0
+2015,0,Unidad Sanitaria Roberts,municipal,III,060469,Lincoln,0
+2014,0,Unidad Sanitaria M. de Hoz,municipal,III,060469,Lincoln,0
+2014,0,Unidad Sanitaria Pasteur,municipal,III,060469,Lincoln,2
+2014,0,Unidad Sanitaria Roberts,municipal,III,060469,Lincoln,0
+2015,142,Hospital Gaspar Campos,municipal,VIII,060476,Lobería,232
+2016,110,Hospital Gaspar Campos,Municipal,VIII,060476,Lobería,192
+2017,105,Hospital Municipal Gaspar Campos,municipal,VIII,060476,Lobería,159
+2014,104,Hospital Gaspar Campos,municipal,VIII,060476,Lobería,172
+2014,0,Unidad Sanitaria San Manuel,municipal,VIII,060476,Lobería,0
+2015,0,Unidad Sanitaria San Manuel,municipal,VIII,060476,Lobería,0
+2016,128,Hospital Zonal General de Ag. de Lobos,Provincial,X,060483,Lobos,369
+2017,119,Hospital Zonal General de Ag. de Lobos,Provincial,X,060483,Lobos,348
+2015,109,Hospital Zonal General de Ag. de Lobos,provincial,X,060483,Lobos,356
+2014,130,Hospital Zonal General de Ag. de Lobos,provincial,X,060483,Lobos,351
+2015,685,Hospital Interzonal General de Ag. L. C. de Gandulfo,provincial,VI,060490,Lomas de Zamora,3211
+2016,607,Hospital Interzonal General de Ag. L. C. de Gandulfo,Provincial,VI,060490,Lomas de Zamora,2749
+2017,528,Hospital Interzonal General de Ag. Luisa C. de Gandulfo,Provincial,VI,060490,Lomas de Zamora,2264
+2017,377,Hospital Mat. Infantil Doctor Oscar E. Alende,municipal,VI,060490,Lomas de Zamora,1189
+2015,375,Hospital Local Materno Infantil Doctor Oscar Alende,municipal,VI,060490,Lomas de Zamora,1262
+2016,282,Hospital Local Materno Infantil Doctor Oscar Alende,Municipal,VI,060490,Lomas de Zamora,908
+2014,623,Hospital Interzonal General de Ag. L. C. de Gandulfo,provincial,VI,060490,Lomas de Zamora,3180
+2014,324,Hospital Local Materno Infantil Doctor Oscar Alende,municipal,VI,060490,Lomas de Zamora,1158
+2014,0,Unidad Sanitaria Lavallol,municipal,VI,060490,Lomas de Zamora,0
+2014,0,Unidad Sanitaria Doctor E. Finochietto,municipal,VI,060490,Lomas de Zamora,0
+2014,0,Unidad Sanitaria 19 de Diciembre,municipal,VI,060490,Lomas de Zamora,0
+2014,0,Unidad Sanitaria General Lamadrid,municipal,VI,060490,Lomas de Zamora,0
+2015,0,Unidad Sanitaria Lavallol,municipal,VI,060490,Lomas de Zamora,0
+2015,0,Unidad Sanitaria Doctor E. Finochietto,municipal,VI,060490,Lomas de Zamora,0
+2015,0,Unidad Sanitaria 19 de Diciembre,municipal,VI,060490,Lomas de Zamora,0
+2015,0,Unidad Sanitaria General Lamadrid,municipal,VI,060490,Lomas de Zamora,0
+2017,471,Hospital Municipal Ntra. Sra. de Luján,municipal,VII,060497,Luján,1024
+2015,457,Hospital Local Nstra. Sra. de Luján,municipal,VII,060497,Luján,1059
+2016,430,Hospital Local Nstra. Sra. de Luján,Municipal,VII,060497,Luján,928
+2014,511,Hospital Local Nstra. Sra. de Luján,municipal,VII,060497,Luján,1183
+2016,112,Hospital Subzonal Santa María Magdalena,Municipal,XI,060505,Magdalena,185
+2015,100,Hospital Subzonal Santa María Magdalena,municipal,XI,060505,Magdalena,181
+2017,88,Hospital Subzonal Santa María Magdalena,municipal,XI,060505,Magdalena,128
+2014,107,Hospital Subzonal Santa María Magdalena,municipal,XI,060505,Magdalena,184
+2015,78,Hospital Subzonal de Maipú,municipal,VIII,060511,Maipú,116
+2016,62,Hospital Subzonal de Maipú,Municipal,VIII,060511,Maipú,88
+2017,48,Hospital Subzonal de Maipú,municipal,VIII,060511,Maipú,72
+2014,52,Hospital Subzonal de Maipú,municipal,VIII,060511,Maipú,83
+2017,1066,Hospital Municipal de Trauma y Emerg. Doctor F. A. Abete,municipal,V,060515,Malvinas Argentinas,3321
+2016,1045,Hospital Municipal de Trauma y Emerg. Doctor F. A. Abete,Municipal,V,060515,Malvinas Argentinas,3407
+2015,1014,Hospital Municipal de Trauma y Emerg. Doctor F. A. Abete,municipal,V,060515,Malvinas Argentinas,3043
+2015,0,Hospital Mat. Inf. M. A. de Menem,municipal,V,060515,Malvinas Argentinas,0
+2015,0,Hospital Doctor Ramón Carrillo,municipal,V,060515,Malvinas Argentinas,0
+2014,1282,Hospital Municipal de Trauma y Emerg. Doctor F. A. Abete,municipal,V,060515,Malvinas Argentinas,3975
+2014,0,Hospital Mat. Inf. M. A. de Menem,municipal,V,060515,Malvinas Argentinas,0
+2014,0,Hospital Doctor Ramón Carrillo,municipal,V,060515,Malvinas Argentinas,0
+2014,0,Hospital Municipal E. Aristizabal,municipal,VIII,060518,Mar Chiquita,0
+2014,0,Unidad Sanitaria Luis Sagasta,municipal,VIII,060518,Mar Chiquita,0
+2015,0,Hospital Municipal E. Aristizabal,municipal,VIII,060518,Mar Chiquita,0
+2015,0,Unidad Sanitaria Luis Sagasta,municipal,VIII,060518,Mar Chiquita,0
+2016,0,Unidad Sanitaria Luis Sagasta,Municipal,VIII,060518,Mar Chiquita,3
+2017,243,Hospital Doctor Hétor J. DAgnillo,municipal,VII,060525,Marcos Paz,561
+2015,187,Hospital Doctor A. D'Agnillo,municipal,VII,060525,Marcos Paz,590
+2016,93,Hospital Doctor A. D'Agnillo,Municipal,VII,060525,Marcos Paz,336
+2014,211,Hospital Doctor A. D'Agnillo,municipal,VII,060525,Marcos Paz,694
+2014,0,Unidad Sanitaria Eva Perón,municipal,VII,060525,Marcos Paz,0
+2015,0,Unidad Sanitaria Eva Perón,municipal,VII,060525,Marcos Paz,0
+2016,338,Hospital Zonal General de Ag. Blas Dubarry,Provincial,X,060532,Mercedes,600
+2015,332,Hospital Zonal General de Ag. Blas Dubarry,provincial,X,060532,Mercedes,626
+2017,320,Hospital Zonal General de Agudos Blas Dubarry,Provincial,X,060532,Mercedes,537
+2014,0,Hospital Zonal General de Ag. Blas Dubarry,provincial,X,060532,Mercedes,0
+2015,864,Hospital Zonal General de Ag. H. de Malvinas,provincial,VII,060539,Merlo,2698
+2017,804,Hospital Mat. Infantil Doctor P. Chutro,municipal,VII,060539,Merlo,3301
+2016,690,Hospital Local Esp. Materno Infantil Doctor P. Chutro,Municipal,VII,060539,Merlo,2884
+2016,659,Hospital Zonal General de Ag. H. de Malvinas,Provincial,VII,060539,Merlo,1661
+2015,527,Hospital Local Esp. Materno Infantil Doctor P. Chutro,municipal,VII,060539,Merlo,1845
+2017,207,Hospital Mat. Infantil Pontevedra,municipal,VII,060539,Merlo,605
+2017,140,Hospital Zonal General de Ag. Héroes de Malvinas,Provincial,VII,060539,Merlo,385
+2016,120,Hospital Materno Infantil Pontevedra,Municipal,VII,060539,Merlo,418
+2015,88,Hospital Materno Infantil Pontevedra,municipal,VII,060539,Merlo,383
+2014,935,Hospital Zonal General de Ag. H. de Malvinas,provincial,VII,060539,Merlo,3163
+2014,377,Hospital Local Esp. Materno Infantil Doctor P. Chutro,municipal,VII,060539,Merlo,1409
+2014,355,Hospital Materno Infantil Pontevedra,municipal,VII,060539,Merlo,1026
+2014,0,Hospital Eva Perón,municipal,VII,060539,Merlo,0
+2015,0,Hospital Eva Perón,municipal,VII,060539,Merlo,0
+2015,136,Hospital Zenón Videla Dorna,provincial,XI,060547,Monte,241
+2016,135,Hospital Zenón Videla Dorna,Provincial,XI,060547,Monte,217
+2017,118,Hospital  Zenón Videla Dorna,Provincial,XI,060547,Monte,232
+2014,135,Hospital Zenón Videla Dorna,provincial,XI,060547,Monte,286
+2016,17,Hospital Menor Doctor Carrillo,Municipal,I,060553,Monte Hermoso,18
+2015,14,Hospital Menor Doctor Carrillo,municipal,I,060553,Monte Hermoso,15
+2017,1,Hospital Municipal Doctor R. Carrillo,municipal,I,060553,Monte Hermoso,3
+2014,22,Hospital Menor Doctor Carrillo,municipal,I,060553,Monte Hermoso,27
+2015,1381,Hospital Mariano y Luciano de la Vega,provincial,VII,060560,Moreno,4069
+2016,1218,Hospital Mariano y Luciano de la Vega,Provincial,VII,060560,Moreno,3677
+2017,1078,Hospital Zonal General M.L. De la Vega,Provincial,VII,060560,Moreno,3116
+2016,206,Maternidad Estela de Carlotto,Provincial,VII,060560,Moreno,1588
+2015,135,Maternidad Estela de Carlotto,provincial,VII,060560,Moreno,807
+2017,126,Maternidad Estela de Carlotto,Provincial,VII,060560,Moreno,1201
+2015,0,Hospital Mariano y Luciano de la Vega,provincial,V,060560,Moreno,0
+2015,0,Unidad Sanitaria N° 4,municipal,V,060560,Moreno,0
+2015,0,Unidad Sanitaria N° 13,municipal,V,060560,Moreno,0
+2015,0,Unidad Sanitaria N° San Brizzi,municipal,V,060560,Moreno,0
+2015,0,Unidad Sanitaria Bangiovano,municipal,V,060560,Moreno,0
+2015,0,Unidad Sanitaria N° 5,municipal,V,060560,Moreno,0
+2014,1199,Hospital Mariano y Luciano de la Vega,provincial,VII,060560,Moreno,4310
+2014,15,Maternidad Estela de Carlotto,provincial,VII,060560,Moreno,288
+2014,0,Hospital Mariano y Luciano de la Vega,provincial,V,060560,Moreno,0
+2014,0,Unidad Sanitaria N° 4,municipal,V,060560,Moreno,0
+2014,0,Unidad Sanitaria N° 13,municipal,V,060560,Moreno,0
+2014,0,Unidad Sanitaria N° San Brizzi,municipal,V,060560,Moreno,0
+2014,0,Unidad Sanitaria Bangiovano,municipal,V,060560,Moreno,0
+2014,0,Unidad Sanitaria N° 5,municipal,V,060560,Moreno,0
+2014,0,Unidad Sanitaria N° 4,municipal,VII,060560,Moreno,0
+2014,0,Unidad Sanitaria N° 13,municipal,VII,060560,Moreno,0
+2014,0,Unidad Sanitaria N° San Brizzi,municipal,VII,060560,Moreno,0
+2014,0,Unidad Sanitaria Bangiovano,municipal,VII,060560,Moreno,0
+2015,0,Unidad Sanitaria N° 4,municipal,VII,060560,Moreno,0
+2015,0,Unidad Sanitaria N° 13,municipal,VII,060560,Moreno,0
+2015,0,Unidad Sanitaria N° San Brizzi,municipal,VII,060560,Moreno,0
+2015,0,Unidad Sanitaria Bangiovano,municipal,VII,060560,Moreno,0
+2015,0,Unidad Sanitaria N° 5,municipal,VII,060560,Moreno,0
+2014,0,Unidad Sanitaria N° 5,municipal,VII,060560,Moreno,0
+2017,1721,Hospital Nac. Doctor Posadas,Nacional,VII,060568,Morón,3689
+2017,1418,Hospital Municipal O. B. de Lavignolle,municipal,VII,060568,Morón,3338
+2016,1266,Hospital O. B. de Lavignolle,Municipal,VII,060568,Morón,3487
+2015,1236,Hospital Nacional Prof. Doctor A Posadas,nacional,VII,060568,Morón,2781
+2016,934,Hospital Nacional Prof. Doctor A Posadas,Nacional,VII,060568,Morón,1849
+2015,930,Hospital O. B. de Lavignolle,municipal,VII,060568,Morón,2693
+2014,945,Hospital Nacional Prof. Doctor A Posadas,nacional,VII,060568,Morón,2932
+2014,899,Hospital O. B. de Lavignolle,municipal,VII,060568,Morón,2533
+2015,154,Hospital Local General San Antonio de Padua,municipal,X,060574,Navarro,265
+2016,127,Hospital Local General San Antonio de Padua,Municipal,X,060574,Navarro,235
+2017,119,Hospital Municipal San Antonio de Padua,municipal,X,060574,Navarro,228
+2014,134,Hospital Local General San Antonio de Padua,municipal,X,060574,Navarro,263
+2016,342,Hospital Doctor Emilio Ferreyra,Municipal,VIII,060581,Necochea,841
+2015,327,Hospital Doctor Emilio Ferreyra,municipal,VIII,060581,Necochea,761
+2017,304,Hospital Municipal Doctor Emilio Ferreyra,municipal,VIII,060581,Necochea,747
+2014,314,Hospital Doctor Emilio Ferreyra,municipal,VIII,060581,Necochea,765
+2014,0,Unidad Sanitaria Claráz,municipal,VIII,060581,Necochea,0
+2014,0,Unidad Sanitaria La Dulce,municipal,VIII,060581,Necochea,0
+2014,0,Hospital N. Fernández Cattoni,municipal,VIII,060581,Necochea,0
+2015,0,Unidad Sanitaria Claráz,municipal,VIII,060581,Necochea,0
+2015,0,Unidad Sanitaria La Dulce,municipal,VIII,060581,Necochea,0
+2015,0,Hospital N. Fernández Cattoni,municipal,VIII,060581,Necochea,0
+2016,0,Hospital Municpal N. Cattoni,Municipal,VIII,060581,Necochea,1
+2015,332,Hospital Zonal Municipal Doctor Héctor Cura,municipal,IX,060595,Olavarría,722
+2016,305,Hospital Zonal Municipal Doctor Héctor Cura,Municipal,IX,060595,Olavarría,663
+2017,302,Hospital Municipal Doctor Héctor Cura,municipal,IX,060595,Olavarría,686
+2014,315,Hospital Zonal Municipal Doctor Héctor Cura,municipal,IX,060595,Olavarría,732
+2014,0,Hospital Local Municipal de Crónicos de Espigas,municipal,IX,060595,Olavarría,0
+2015,0,Hospital Local Municipal de Crónicos de Espigas,municipal,IX,060595,Olavarría,0
+2015,171,Hospital Local Doctor Pedro Ecay,municipal,I,060602,Patagones,336
+2017,127,Hospital Municipal de Agudos Doctor Pedro Ecay,municipal,I,060602,Patagones,290
+2016,109,Hospital Local Doctor Pedro Ecay,Municipal,I,060602,Patagones,285
+2015,3,Hospital Local Stroeder,municipal,I,060602,Patagones,5
+2015,0,Unidad Sanitaria San Blas,municipal,I,060602,Patagones,0
+2015,0,Hospital Local Villalonga,municipal,I,060602,Patagones,10
+2014,160,Hospital Local Doctor Pedro Ecay,municipal,I,060602,Patagones,358
+2014,0,Hospital Local Stroeder,municipal,I,060602,Patagones,6
+2014,0,Unidad Sanitaria San Blas,municipal,I,060602,Patagones,0
+2014,0,Hospital Local Villalonga,municipal,I,060602,Patagones,9
+2016,0,Hospital Local Stroeder,Municipal,I,060602,Patagones,1
+2016,0,Hospital Local Villalonga,Municipal,I,060602,Patagones,13
+2017,,Hospital Municipal de Villalonga,municipal,I,060602,Patagones,5
+2016,173,Hospital Zonal Doctor J. C. Aramburu,Municipal,II,060609,Pehuajó,304
+2015,163,Hospital Zonal Doctor J. C. Aramburu,municipal,II,060609,Pehuajó,300
+2017,140,Hospital Zonal Doctor J. C. Aramburu,municipal,II,060609,Pehuajó,270
+2015,0,Hospital Local Fco. Benincasa,municipal,II,060609,Pehuajó,0
+2015,0,Hospital Juan J. Paso,municipal,II,060609,Pehuajó,0
+2015,0,Unidad Sanitaria Francisco Madero,municipal,II,060609,Pehuajó,0
+2014,154,Hospital Zonal Doctor J. C. Aramburu,municipal,II,060609,Pehuajó,305
+2014,0,Hospital Local Fco. Benincasa,municipal,II,060609,Pehuajó,0
+2014,0,Hospital Juan J. Paso,municipal,II,060609,Pehuajó,0
+2014,0,Unidad Sanitaria Francisco Madero,municipal,II,060609,Pehuajó,0
+2017,,Hospital Local Doctor F. Benincasa,municipal,II,060609,Pehuajó,7
+2016,52,Hospital Doctor Guillermo del Soldato,Municipal,II,060616,Pellegrini,81
+2017,51,Hospital Doctor Guillermo del Soldato,municipal,II,060616,Pellegrini,84
+2015,41,Hospital Doctor Guillermo del Soldato,municipal,II,060616,Pellegrini,66
+2014,57,Hospital Doctor Guillermo del Soldato,municipal,II,060616,Pellegrini,103
+2015,417,Hospital Interzonal General de Ag. San José,provincial,IV,060623,Pergamino,1045
+2016,388,Hospital Interzonal General de Ag. San José,Provincial,IV,060623,Pergamino,972
+2017,334,Hospital Interzonal General de Ag. San José,Provincial,IV,060623,Pergamino,1010
+2014,358,Hospital Interzonal General de Ag. San José,provincial,IV,060623,Pergamino,1066
+2014,0,Hospital Municipal de Pila,municipal,XI,060630,Pila,0
+2015,0,Hospital Municipal de Pila,municipal,XI,060630,Pila,0
+2017,,Hospital Municipal de Pila,municipal,XI,060630,Pila,1
+2015,1377,Hospital Municipal Mat. Inf. Cro. H. Meisner,municipal,V,060638,Pilar,3994
+2016,1236,Hospital Municipal Mat. Inf. Comodoro H. Meisner,Municipal,V,060638,Pilar,3800
+2017,1085,Hospital Municipal Mat. Inf. Comodoro H. Meisner,municipal,V,060638,Pilar,3326
+2015,4,Hospital G. Sanguinetti,municipal,V,060638,Pilar,13
+2015,0,Hospital Municipal Pediátrico Doctor F. Falcón,municipal,V,060638,Pilar,0
+2015,0,Unidad Sanitaria M. Alberti,municipal,V,060638,Pilar,0
+2014,1307,Hospital Municipal Mat. Inf. Cro. H. Meisner,municipal,V,060638,Pilar,4252
+2014,2,Hospital G. Sanguinetti,municipal,V,060638,Pilar,20
+2014,0,Hospital Municipal Pediátrico Doctor F. Falcón,municipal,V,060638,Pilar,0
+2014,0,Unidad Sanitaria M. Alberti,municipal,V,060638,Pilar,0
+2016,0,Hospital G. Sanguinetti,Municipal,V,060638,Pilar,21
+2017,,Hospital Central de Pilar Juan C. Sanguinetti,municipal,V,060638,Pilar,4
+2016,247,Hospital Comunitario de Pinamar,Municipal,VIII,060644,Pinamar,507
+2015,234,Hospital Comunitario de Pinamar,municipal,VIII,060644,Pinamar,468
+2017,225,Hospital Comunitario de Pinamar,municipal,VIII,060644,Pinamar,479
+2014,224,Hospital Comunitario de Pinamar,municipal,VIII,060644,Pinamar,438
+2016,331,Hospital Zonal Dra. Cecilia Grierson,Provincial,XI,060648,Presidente Perón,1518
+2015,316,Hospital Zonal Dra. Cecilia Grierson,provincial,XI,060648,Presidente Perón,1347
+2017,288,Hospital Zonal General de Ag. Dra. Cecilia Grierson,Provincial,XI,060648,Presidente Perón,1219
+2014,245,Hospital Zonal Dra. Cecilia Grierson,provincial,XI,060648,Presidente Perón,1072
+2017,101,Hospital Municipal Gobernador Ugarte,municipal,I,060651,Puán,144
+2015,83,Hospital Gobernador Marcelino Ugarte,municipal,I,060651,Puán,142
+2016,82,Hospital Gobernador Marcelino Ugarte,Municipal,I,060651,Puán,126
+2015,0,Hospital Local Esp. Villa Iris,municipal,I,060651,Puán,0
+2014,90,Hospital Gobernador Marcelino Ugarte,municipal,I,060651,Puán,172
+2014,0,Hospital Local Esp. Villa Iris,municipal,I,060651,Puán,0
+2015,80,Hospital Municipal Doctor Guillermo Hernández,municipal,XI,060655,Punta Indio,118
+2017,80,Hospital de la Comunidad Doctor Guillermo Hernández,municipal,XI,060655,Punta Indio,112
+2016,72,Hospital Municipal Doctor Guillermo Hernández,Municipal,XI,060655,Punta Indio,116
+2014,87,Hospital Municipal Doctor Guillermo Hernández,municipal,XI,060655,Punta Indio,132
+2017,553,Hospital Subzonal Esp. Mat. Infantil Doctor Eduardo Oller,municipal,VI,060658,Quilmes,1781
+2015,522,Hospital Zonal General de Ag. Doctor I. Iriarte,provincial,VI,060658,Quilmes,2078
+2017,512,Hospital Zonal General de Ag. Doctor I. Iriarte,Provincial,VI,060658,Quilmes,1896
+2015,481,Hospital Subzonal Esp. Materno Infantil Doctor Eduardo Oller,municipal,VI,060658,Quilmes,1700
+2016,471,Hospital Subzonal Esp. Materno Infantil Doctor Eduardo Oller,Provincial,VI,060658,Quilmes,1648
+2016,453,Hospital Zonal General de Ag. Doctor I. Iriarte,Provincial,VI,060658,Quilmes,1871
+2015,0,Centro Asistencial Municipal Don Bosco,municipal,VI,060658,Quilmes,0
+2014,526,Hospital Subzonal Esp. Materno Infantil Doctor Eduardo Oller,municipal,VI,060658,Quilmes,2162
+2014,450,Hospital Zonal General de Ag. Doctor I. Iriarte,provincial,VI,060658,Quilmes,2022
+2014,0,Centro Asistencial Municipal Don Bosco,municipal,VI,060658,Quilmes,0
+2017,,Centro Asist. Modelo Don Bosco,municipal,VI,060658,Quilmes,3
+2017,134,Hospital J. M. Gomendio,municipal,IV,060665,Ramallo,292
+2016,114,Hospital Municipal Descentralizado J. M. Gomendio,Municipal,IV,060665,Ramallo,265
+2015,108,Hospital Municipal Descentralizado J. M. Gomendio,municipal,IV,060665,Ramallo,279
+2014,115,Hospital Municipal Descentralizado J. M. Gomendio,municipal,IV,060665,Ramallo,264
+2015,142,Hospital Local General E. Díaz Vélez,municipal,IX,060672,Rauch,221
+2016,140,Hospital Local General E. Díaz Vélez,Municipal,IX,060672,Rauch,234
+2017,112,Hospital Municipal General E. Díaz Vélez,municipal,IX,060672,Rauch,179
+2014,132,Hospital Local General E. Díaz Vélez,municipal,IX,060672,Rauch,237
+2015,165,Hospital Local Municipal Rivadavia,municipal,II,060679,Rivadavia,253
+2017,146,Hospital Local Municipal de Rivadavia,municipal,II,060679,Rivadavia,249
+2016,105,Hospital Local Municipal Rivadavia,Municipal,II,060679,Rivadavia,238
+2015,0,Unidad Sanitaria Gonzalez Moreno,municipal,II,060679,Rivadavia,0
+2014,171,Hospital Local Municipal Rivadavia,municipal,II,060679,Rivadavia,272
+2014,0,Unidad Sanitaria Gonzalez Moreno,municipal,II,060679,Rivadavia,0
+2015,118,Hospital Subzonal General S. Unzué,municipal,IV,060686,Rojas,165
+2016,116,Hospital Subzonal General S. Unzué,Municipal,IV,060686,Rojas,159
+2017,88,Hospital Subzonal General S. Unzué,municipal,IV,060686,Rojas,141
+2014,116,Hospital Subzonal General S. Unzué,municipal,IV,060686,Rojas,173
+2015,128,Hospital Zonal General R. Carrillo,municipal,X,060693,Roque Pérez,165
+2016,124,Hospital Zonal General R. Carrillo,Municipal,X,060693,Roque Pérez,161
+2017,105,Hospital MunicipalDoctor R. Carrillo,municipal,X,060693,Roque Pérez,169
+2014,126,Hospital Zonal General R. Carrillo,municipal,X,060693,Roque Pérez,160
+2016,165,Hospital y Maternidad Municipal O. F. Ducos,Municipal,I,060700,Saavedra,202
+2015,161,Hospital y Maternidad Municipal O. F. Ducos,municipal,I,060700,Saavedra,205
+2017,118,Hospital y Maternidad Municipal O. F. Ducos,municipal,I,060700,Saavedra,154
+2015,0,Hospital Municipal Doctor M. Suarch,municipal,I,060700,Saavedra,0
+2014,170,Hospital y Maternidad Municipal O. F. Ducos,municipal,I,060700,Saavedra,208
+2014,0,Hospital Municipal Doctor M. Suarch,municipal,I,060700,Saavedra,0
+2017,211,Hospital Zonal General Doctor A. Posadas,Provincial,X,060707,Saladillo,339
+2015,193,Hospital Zonal General Doctor A. Posadas,provincial,X,060707,Saladillo,368
+2016,169,Hospital Zonal General Doctor A. Posadas,Provincial,X,060707,Saladillo,335
+2014,207,Hospital Zonal General Doctor A. Posadas,provincial,X,060707,Saladillo,374
+2016,121,Hospital Municipal Salliqueló,Municipal,II,060721,Salliqueló,169
+2017,116,Hospital Municipal de Salliqueló,municipal,II,060721,Salliqueló,160
+2015,106,Hospital Municipal Salliqueló,municipal,II,060721,Salliqueló,154
+2014,112,Hospital Municipal Salliqueló,municipal,II,060721,Salliqueló,176
+2015,162,Hospital Local General de Salto,municipal,IV,060714,Salto,310
+2017,153,Hospital Municipal de Salto Presidente J. D. Perón,municipal,IV,060714,Salto,287
+2016,139,Hospital Local General de Salto,Municipal,IV,060714,Salto,285
+2014,173,Hospital Local General de Salto,municipal,IV,060714,Salto,334
+2015,168,Hospital Municipal San Andrés de Giles,municipal,IV,060728,San Andrés de Giles,340
+2017,149,Hospital Municipal San Andrés,municipal,IV,060728,San Andrés de Giles,312
+2016,145,Hospital Municipal San Andrés de Giles,Municipal,IV,060728,San Andrés de Giles,309
+2014,145,Hospital Municipal San Andrés de Giles,municipal,IV,060728,San Andrés de Giles,290
+2015,141,Hospital Municipal Emilio Zerboni,municipal,IV,060735,San Antonio de Areco,281
+2017,139,Hospital Municipal Emilio Zerboni,municipal,IV,060735,San Antonio de Areco,250
+2016,132,Hospital Municipal Emilio Zerboni,Municipal,IV,060735,San Antonio de Areco,240
+2014,158,Hospital Municipal Emilio Zerboni,municipal,IV,060735,San Antonio de Areco,288
+2015,36,Hospital Municipal Alberto Menditeguy,municipal,VIII,060742,San Cayetano,49
+2016,31,Hospital Municipal Alberto Menditeguy,Municipal,VIII,060742,San Cayetano,36
+2017,20,Hospital Municipal Alberto Menditeguy,municipal,VIII,060742,San Cayetano,26
+2014,35,Hospital Municipal Alberto Menditeguy,municipal,VIII,060742,San Cayetano,40
+2015,457,Hospital Zonal General de Ag. P. V. de Cordero,provincial,V,060749,San Fernando,1460
+2016,349,Hospital Zonal General de Ag. P. V. de Cordero,Provincial,V,060749,San Fernando,1097
+2017,329,Hospital Zonal General de Ag. Petrona V. de Cordero,Provincial,V,060749,San Fernando,1012
+2015,0,Hospital Local General de Agudos Doctor R. Carrillo,municipal,V,060749,San Fernando,0
+2015,0,Hospital Boca Carabelas,municipal,V,060749,San Fernando,0
+2015,0,Hospital Loc. General Agudos Paraná Miní y Canal 4,municipal,V,060749,San Fernando,0
+2014,473,Hospital Zonal General de Ag. P. V. de Cordero,provincial,V,060749,San Fernando,1473
+2014,0,Hospital Local General de Agudos Doctor R. Carrillo,municipal,V,060749,San Fernando,0
+2014,0,Hospital Boca Carabelas,municipal,V,060749,San Fernando,0
+2014,0,Hospital Loc. General Agudos Paraná Miní y Canal 4,municipal,V,060749,San Fernando,0
+2015,612,Hospital Materno Infantil de San Isidro Doctor C. Gianantonio,municipal,V,060756,San Isidro,1973
+2016,551,Hospital Materno Infantil de San Isidro Doctor C. Gianantonio,Municipal,V,060756,San Isidro,1721
+2017,543,Hospital Mat. Infantil de San Isidron Doctor C. Gianantonio,municipal,V,060756,San Isidro,1507
+2014,675,Hospital Materno Infantil de San Isidro Doctor C. Gianantonio,municipal,V,060756,San Isidro,2016
+2015,749,Hospital Doctor Raúl Larcade,municipal,V,060760,San Miguel,2784
+2017,749,Hospital MunicipalDoctor Raúl F. Larcade,municipal,V,060760,San Miguel,2544
+2016,614,Hospital Doctor Raúl Larcade,Municipal,V,060760,San Miguel,2665
+2015,0,Unidad Sanitaria N° 1,municipal,V,060760,San Miguel,0
+2015,0,Centro de Salud R. Podestá,municipal,V,060760,San Miguel,0
+2014,807,Hospital Doctor Raúl Larcade,municipal,V,060760,San Miguel,3163
+2014,0,Unidad Sanitaria N° 1,municipal,V,060760,San Miguel,0
+2014,0,Centro de Salud R. Podestá,municipal,V,060760,San Miguel,0
+2017,522,Hospital Interzonal General de Ag. San Felipe,Provincial,IV,060763,San Nicolás,1189
+2015,511,Hospital Zonal General de Ag. San Felipe,provincial,IV,060763,San Nicolás,1172
+2016,493,Hospital Zonal General de Ag. San Felipe,Provincial,IV,060763,San Nicolás,1131
+2014,501,Hospital Zonal General de Ag. San Felipe,provincial,IV,060763,San Nicolás,1220
+2016,254,Hospital Subzonal General Doctor E. Ruffo,Municipal,IV,060770,San Pedro,607
+2015,225,Hospital Subzonal General Doctor E. Ruffo,municipal,IV,060770,San Pedro,591
+2017,225,Hospital Subzonal General Doctor E. Ruffo,municipal,IV,060770,San Pedro,619
+2015,0,Hospital Santa Lucía,municipal,IV,060770,San Pedro,0
+2015,0,Hospital Local 26 de Julio Gob. Castro,municipal,IV,060770,San Pedro,0
+2014,231,Hospital Subzonal General Doctor E. Ruffo,municipal,IV,060770,San Pedro,617
+2014,0,Hospital Santa Lucía,municipal,IV,060770,San Pedro,0
+2014,0,Hospital Local 26 de Julio Gob. Castro,municipal,IV,060770,San Pedro,0
+2017,239,Hospital Subzonal General Doctor R. Carrillo,municipal,XI,060778,San Vicente,856
+2016,223,Hospital Subzonal General Doctor R Carrillo,Municipal,XI,060778,San Vicente,857
+2015,220,Hospital Subzonal General Doctor R Carrillo,municipal,XI,060778,San Vicente,851
+2014,257,Hospital Subzonal General Doctor R Carrillo,municipal,XI,060778,San Vicente,1002
+2017,84,Hospital Municipal Esteban Iribarne,municipal,X,060784,Suipacha,125
+2016,52,Hospital Esteban Iribarne,Municipal,X,060784,Suipacha,92
+2015,46,Hospital Esteban Iribarne,municipal,X,060784,Suipacha,113
+2014,52,Hospital Esteban Iribarne,municipal,X,060784,Suipacha,96
+2015,296,Hospital Ramón Santamarina,municipal,VIII,060791,Tandil,678
+2016,280,Hospital Ramón Santamarina,Municipal,VIII,060791,Tandil,669
+2017,262,Hospital Municipal Ramón Santamarina,municipal,VIII,060791,Tandil,664
+2015,0,Hospital Doctor E. Larreta,municipal,VIII,060791,Tandil,0
+2014,302,Hospital Ramón Santamarina,municipal,VIII,060791,Tandil,696
+2014,0,Hospital Doctor E. Larreta,municipal,VIII,060791,Tandil,0
+2015,23,Hospital Local Municipal de Tapalqué,municipal,IX,060798,Tapalqué,25
+2016,16,Hospital Local Municipal de Tapalqué,Municipal,IX,060798,Tapalqué,20
+2017,2,Hospital Municipal de Tapalqué,municipal,IX,060798,Tapalqué,3
+2014,32,Hospital Local Municipal de Tapalqué,municipal,IX,060798,Tapalqué,32
+2017,1123,Hospital Materno Infantil Doctor Florencio Escardó,municipal,V,060805,Tigre,3623
+2016,1086,Hospital Materno Infantil Doctor Florencio Escardó,Municipal,V,060805,Tigre,3970
+2015,713,Hospital Materno Infantil Doctor Florencio Escardó,municipal,V,060805,Tigre,2929
+2015,581,Hospital Zonal General de Ag. M. V. de Martínez,provincial,V,060805,Tigre,1825
+2016,399,Hospital Zonal General de Ag. M. V. de Martínez,Provincial,V,060805,Tigre,1235
+2017,318,Hospital Zonal General de Ag. M. V. de Martinez,Provincial,V,060805,Tigre,1197
+2015,0,Unidad Sanitaria Buenos Aires,municipal,V,060805,Tigre,0
+2015,0,Centro de Salud  General Pacheco,municipal,V,060805,Tigre,0
+2015,0,Unidad Sanitaria Almirante Brown,municipal,V,060805,Tigre,0
+2015,0,Hospital Comunal de Tigre,municipal,V,060805,Tigre,0
+2015,0,Centro de Salud  N° 9,municipal,V,060805,Tigre,0
+2015,0,Centro de Salud R. Rojas,municipal,V,060805,Tigre,0
+2015,0,Centro de Salud El Arco,municipal,V,060805,Tigre,0
+2014,704,Hospital Comunal de Tigre,municipal,V,060805,Tigre,3000
+2014,579,Hospital Zonal General de Ag. M. V. de Martínez,provincial,V,060805,Tigre,1858
+2014,0,Hospital Materno Infantil Doctor Florencio Escardó,municipal,V,060805,Tigre,0
+2014,0,Unidad Sanitaria Buenos Aires,municipal,V,060805,Tigre,0
+2014,0,Centro de Salud  General Pacheco,municipal,V,060805,Tigre,0
+2014,0,Unidad Sanitaria Almirante Brown,municipal,V,060805,Tigre,0
+2014,0,Centro de Salud  N° 9,municipal,V,060805,Tigre,0
+2014,0,Centro de Salud R. Rojas,municipal,V,060805,Tigre,0
+2014,0,Centro de Salud El Arco,municipal,V,060805,Tigre,0
+2014,0,Hospital Municipal Ismael Ferrari,municipal,XI,060812,Tordillo,0
+2015,0,Hospital Municipal Ismael Ferrari,municipal,XI,060812,Tordillo,0
+2015,0,Hospital Municipal Doctor A. Castro,municipal,I,060819,Tornquist,32
+2015,0,Unidad Sanitaria E. Aldaya,municipal,I,060819,Tornquist,0
+2015,0,Unidad Sanitaria Doctor Luis Agote,municipal,I,060819,Tornquist,0
+2014,0,Hospital Municipal Doctor A. Castro,municipal,I,060819,Tornquist,10
+2014,0,Unidad Sanitaria E. Aldaya,municipal,I,060819,Tornquist,0
+2014,0,Unidad Sanitaria Doctor Luis Agote,municipal,I,060819,Tornquist,0
+2016,0,Unidad Sanitaria Doctor E. Aldaya,Municipal,I,060819,Tornquist,1
+2017,,Hospital Municipal Doctor A. Castro,municipal,I,060819,Tornquist,11
+2015,243,Hospital Doctor Pedro Orellana,municipal,II,060826,Trenque Lauquen,381
+2016,182,Hospital Doctor Pedro Orellana,Municipal,II,060826,Trenque Lauquen,313
+2017,169,Hospital Municipal Doctor Pedro T. Orellana,municipal,II,060826,Trenque Lauquen,313
+2015,0,Hospital Municipal Treinta de Agosto,municipal,II,060826,Trenque Lauquen,1
+2014,195,Hospital Doctor Pedro Orellana,municipal,II,060826,Trenque Lauquen,336
+2014,0,Hospital Municipal Treinta de Agosto,municipal,II,060826,Trenque Lauquen,4
+2016,0,Hospital Municipal Treinta de Agosto,Municipal,II,060826,Trenque Lauquen,1
+2015,227,Hospital Ignacio Pirovano,municipal,I,060833,Tres Arroyos,443
+2016,218,Hospital Ignacio Pirovano,Municipal,I,060833,Tres Arroyos,397
+2017,214,Hospital Ignacio Pirovano,municipal,I,060833,Tres Arroyos,361
+2015,0,Unidad Sanitaria Orense,municipal,I,060833,Tres Arroyos,0
+2014,251,Hospital Ignacio Pirovano,municipal,I,060833,Tres Arroyos,465
+2014,0,Unidad Sanitaria Orense,municipal,I,060833,Tres Arroyos,0
+2015,384,Hospital Zonal General de Ag. Doctor Bocalandro,provincial,VII,060840,Tres de Febrero,1347
+2016,361,Hospital Zonal General de Ag. Doctor Bocalandro,Provincial,VII,060840,Tres de Febrero,1235
+2015,348,Hospital Zonal General de Ag. Prof. Doctor R. Carrillo,provincial,VII,060840,Tres de Febrero,1068
+2017,346,Hospital Zonal General de Agudos Doctor C. A. Bocalandro,Provincial,VII,060840,Tres de Febrero,1168
+2017,291,Hospital Zonal General de Ag.  Prof. Doctor R. Carrillo,Provincial,VII,060840,Tres de Febrero,895
+2016,276,Hospital Zonal General de Ag. Prof. Doctor R. Carrillo,Provincial,VII,060840,Tres de Febrero,908
+2014,360,Hospital Zonal General de Ag. Doctor Bocalandro,provincial,VII,060840,Tres de Febrero,1323
+2014,302,Hospital Zonal General de Ag. Prof. Doctor R. Carrillo,provincial,VII,060840,Tres de Febrero,1108
+2015,75,Hospital Municipal Doctor Domingo V. Girotti,municipal,II,060847,Tres Lomas,108
+2016,69,Hospital Municipal Doctor Domingo V. Girotti,Municipal,II,060847,Tres Lomas,105
+2017,54,Hospital Municipal Doctor Domingo V. Girotti,municipal,II,060847,Tres Lomas,74
+2014,72,Hospital Municipal Doctor Domingo V. Girotti,municipal,II,060847,Tres Lomas,101
+2015,592,Instituto Maternidad Santa Rosa,municipal,V,060861,Vicente López,2329
+2016,558,Instituto Maternidad Santa Rosa,Municipal,V,060861,Vicente López,2122
+2017,238,Instituto Maternidad Santa Rosa,municipal,V,060861,Vicente López,1960
+2014,567,Instituto Maternidad Santa Rosa,municipal,V,060861,Vicente López,2284
+2016,209,Hospital Municipal Doctor Arturo Illia,Municipal,VIII,060868,Villa Gesell,383
+2015,189,Hospital Municipal Doctor Arturo Illia,municipal,VIII,060868,Villa Gesell,409
+2017,186,Hospital Municipal de Ag. Doctor Arturo Illia,municipal,VIII,060868,Villa Gesell,346
+2014,201,Hospital Municipal Doctor Arturo Illia,municipal,VIII,060868,Villa Gesell,421
+2015,0,Hospital Subzonal Especializado,provincial,I,060875,Villarino,0
+2015,0,Hospital Menor A. Bertoni,municipal,I,060875,Villarino,0
+2015,0,Hospital Local General J. A. Pradere,municipal,I,060875,Villarino,99
+2015,0,Hospital Menor J. B. Sartori,municipal,I,060875,Villarino,0
+2015,0,Hospital Subzonal Esp. de Médanos,municipal,I,060875,Villarino,1
+2014,0,Hospital Subzonal Especializado,provincial,I,060875,Villarino,0
+2014,0,Hospital Menor A. Bertoni,municipal,I,060875,Villarino,0
+2014,0,Hospital Local General J. A. Pradere,municipal,I,060875,Villarino,134
+2014,0,Hospital Menor J. B. Sartori,municipal,I,060875,Villarino,0
+2014,0,Hospital Subzonal Esp. de Médanos,municipal,I,060875,Villarino,0
+2016,0,Hospital Local General J. A. Pradere,Municipal,I,060875,Villarino,97
+2017,,Hospital Local General J. A. Pradere,municipal,I,060875,Villarino,88
+2015,464,Hospital Zonal General de Ag. Virgen del Carmen,provincial,V,060882,Zárate,1233
+2016,417,Hospital Zonal General de Ag. Virgen del Carmen,Provincial,V,060882,Zárate,1137
+2017,370,Hospital Zonal General de Ag. Virgen del Carmen,Provincial,V,060882,Zárate,1082
+2014,506,Hospital Zonal General de Ag. Virgen del Carmen,provincial,V,060882,Zárate,1276
